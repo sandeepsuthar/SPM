@@ -7,7 +7,7 @@
 
 import Foundation
 
-open class TestClass {
+public class TestClass {
     public init() { }
     public func printHello() {
         print("Hello world")

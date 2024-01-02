@@ -8,6 +8,7 @@
 import Foundation
 
 public class TestClass {
+    public init() { }
     public func printHello() {
         print("Hello world")
     }

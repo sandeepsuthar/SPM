@@ -9,7 +9,7 @@ import Foundation
 
 open class TestClass {
     public init() { }
-    open func printHello() {
+    public func printHello() {
         print("Hello world")
     }
 }
